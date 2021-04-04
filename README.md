@@ -3,9 +3,11 @@
 
 # scheduler
 Creating a Homework Assignment that applies knowledge learn in class to create a planner.
+
+
 contributors - Nadja Antonjak
 
-1. keeping organised throughout my course is what motivated me throughout assignment #5. Creating a day planner that helps you scheduel your day out is a big benefit to planning out days in order to get everything important done.
+1. Keeping organised throughout my course is what motivated me throughout assignment #5. Creating a day planner that helps you scheduel your day out is a big benefit to planning out days in order to get everything important done.
 
 2.This project was bulit to haelp with timemanagemnt, studying and having a busy lifestyle can become overwhealming . Having a day planner can ease the stress knowing what needs to be done ensuring nothing is missed.
 
