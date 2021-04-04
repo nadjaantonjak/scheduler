@@ -1,0 +1,95 @@
+
+
+
+  body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 1;
+    background-color: aliceblue;
+    color: #eb9595;
+  }
+  
+   
+  textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    border-left: 1px solid ;
+    border-top: 1px solid;
+    padding: 10px;
+    vertical-align: middle;
+  }
+  .na {
+    text-align: center;
+    background-color: #949ae9;
+    color: rgb(0, 0, 0);
+    border-radius: 0;
+    border-bottom: 10px solid rgb(100, 100, 100);
+    
+  }
+
+  .na h1 {
+    font-family: 'Courier New', Courier, monospace;
+    
+  }
+  
+  .lead {
+    color: white;
+  }
+  .description {
+    white-space: pre-wrap;
+  }
+  
+  .time-block {
+    text-align: center;
+    
+  }
+  
+  .flex-row {
+    white-space: pre-wrap;
+    height: 80px;
+    
+  }
+  
+  .hour {
+    background-color: white;
+    color:rgb(163, 162, 162);
+    border-top: 1px dashed  rgb(201, 116, 116);
+    text-align: center;
+    vertical-align: middle;
+    height:80px;
+  }
+  
+  .past {
+    background-color: #8dc79e;
+    color: white;
+  }
+  
+  .present {
+    background-color: white;
+    color: var(--faux-raw-umber);
+  }
+  
+  .future {
+    background-color:#949ae9;
+    color: white;
+  }
+  
+  .social {
+    background-color: #eb9595;
+    color: rgb(97, 93, 93);
+  }
+  
+  .saveBtn {
+    border: 1px solid white;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color:#949ae9;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  .saveBtn i:hover {
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+  }
