@@ -1,3 +1,5 @@
+![IMG_7389](https://user-images.githubusercontent.com/79078061/113497187-e8253780-9544-11eb-8128-334f307b09e1.JPG)
+![Uploading IMG_7390.JPG…]()
 # scheduler
 Creating a Homework Assignment that applies knowledge learn in class to create a planner.
 contributors - Nadja Antonjak
